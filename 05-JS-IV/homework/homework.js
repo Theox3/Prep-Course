@@ -134,7 +134,7 @@ function sumarLikesDeUsuario (usuario) {
   // Cada objeto "post" tiene una propiedad llamada "likes" que es un entero (int/integer)
   // Suma todos los likes de todos los objetos "post"
   // Devuelve la suma
-  // Tu código:t
+  // Tu código:
     var posts = usuario.posts;
     var suma = 0;
     for(var i = 0; i < posts.length; i++){
